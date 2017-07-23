@@ -1,0 +1,23 @@
+{
+  "name": "electrontest",
+  "description": "A program testing some electron things",
+  "authors": "CreativeGuy2013",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.6.11"
+  },
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeGuy2013/ElectronTests.git"
+  },
+  "author": "CreativeGuy2013",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreativeGuy2013/ElectronTests/issues"
+  },
+  "homepage": "https://github.com/CreativeGuy2013/ElectronTests#readme"
+}
